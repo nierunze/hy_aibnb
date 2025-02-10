@@ -27,6 +27,7 @@ function App() {
       <ThemeProvider theme={theme}>
         <AppHeader />
         <div className='page'>
+          <h2>哈哈哈哈哈</h2>
           {element}
         </div>
         <AppFooter />
