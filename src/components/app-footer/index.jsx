@@ -23,7 +23,7 @@ export default function AppFooter() {
                         })
                     }
                 </div>
-                <div className='statement'>聂润泽</div>
+                <div className='statement'>分开了附件打开拉萨分解哦我给你发动机时空裂缝嘉兴仓v发给第三方但是柳卡进入</div>
             </div>
         </FooterWrapper>
     )
