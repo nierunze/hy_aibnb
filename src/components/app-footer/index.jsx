@@ -23,7 +23,7 @@ export default function AppFooter() {
                         })
                     }
                 </div>
-                <div className='statement'>© 2022 Airbnb, Inc. All rights reserved.条款 · 隐私政策 · 网站地图 · 全国旅游投诉渠道 12301</div>
+                <div className='statement'>聂润泽</div>
             </div>
         </FooterWrapper>
     )
